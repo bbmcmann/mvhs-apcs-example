@@ -30,12 +30,5 @@
 ## Problems
 * commit without -m -> Use Esc :wq to quit vim
 * wrong message -> git commit --amend -> "new message"
-
-
-sdfhshlashlkaghklsjahgkasghklagh  
- gag 
-  s
-  g i
-  s g 
-  gs gig
-  g 
+* wrong commit -> git checkout COMMIT_ID
+* Get back to main branch - > git checkout master
